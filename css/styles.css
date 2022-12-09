@@ -493,6 +493,10 @@ img {
   object-fit: cover;
 }
 
+.sidebar-add-img-tall {
+  height: 553px;
+}
+
 
 /* FOOTER */
 .site-footer {
